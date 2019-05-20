@@ -1,0 +1,14 @@
+.bg{
+	background: url(img/1470377292431.jpg) no-repeat top center;
+	margin-top: 70px;
+	height: 240px;
+	width: 100%;
+	position: fixed;
+}
+.bg-wrap{
+	height: 240px;
+}
+.group-industry{
+	position: relative;
+	z-index: 0;
+}
